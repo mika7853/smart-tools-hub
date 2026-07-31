@@ -1,6 +1,0 @@
-{
-  "name": "SmartToolsHub",
-  "description": "Free AI & Online Tools for Everyone - AI tools, PDF tools, calculators, image tools, text tools, and developer utilities.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
