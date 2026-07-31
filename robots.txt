@@ -1,0 +1,13 @@
+# SmartToolsHub Robots.txt
+User-agent: *
+Allow: /
+
+# Disallow private user routes
+Disallow: /#dashboard
+Disallow: /#auth
+
+# Crawl-delay for optimal performance
+Crawl-delay: 1
+
+# Sitemap Location
+Sitemap: https://smarttoolshub.com/sitemap.xml
