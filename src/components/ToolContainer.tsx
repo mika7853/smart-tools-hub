@@ -3,7 +3,7 @@ import { Tool } from '../types';
 import { TOOLS } from '../data/toolsData';
 import { ArrowLeft, Share2, Check, Sparkles, ShieldCheck, Heart, ArrowRight, Wrench } from 'lucide-react';
 
-import { AiResumeBuilder } from '../AiResumeBuilder';
+import { AiResumeBuilder } from './tools/AiResumeBuilder';
 import { AiLetterWriter } from '../AiLetterWriter';
 import { QrCodeGenerator } from '../QrCodeGenerator';
 import { ImageCompressor } from '../ImageCompressor';
